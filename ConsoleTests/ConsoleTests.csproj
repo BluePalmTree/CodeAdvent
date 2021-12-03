@@ -6,12 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Inputs\**" />
-    <EmbeddedResource Remove="Inputs\**" />
-    <None Remove="Inputs\**" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Compile Update="Day1.cs">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Compile>
