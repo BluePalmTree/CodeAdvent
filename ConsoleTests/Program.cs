@@ -6,7 +6,7 @@ namespace ConsoleTests
     {
         static void Main(string[] args)
         {
-            Day3.Day3_2();
+            Day4.Day4_2();
         }
     }
 }
